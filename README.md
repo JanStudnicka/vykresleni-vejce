@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=studna6/vykresleni-vejce&file=https://github.com/studna6/vykresleni-vejce/blob/main/vykresleni_vejce.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=studna6/vykresleni-vejce&file=vykresleni_vejce.mlx)
 
 # Velikonoční vejce
 
