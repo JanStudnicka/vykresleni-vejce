@@ -1,7 +1,7 @@
 Live Script s ukázkou, jak dojít k rovnici 2D křivky či 3D plochy připomínající vejce a jak tuto křivku či plochu vykreslit.
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JanStudnicka/vykresleni-vejce&file=vykresleni_vejce.mlx&focus=true)
-
+[![View Vykresleni vejce on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75003-vykresleni-vejce)
 # Velikonoční vejce
 
 Inspirace dle článku uvedeného zde:
